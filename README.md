@@ -1,1 +1,1 @@
-Projeto com a intençaõ de estudo sobre micro front-ends
+Projeto com a intenção de estudo sobre micro front-ends
